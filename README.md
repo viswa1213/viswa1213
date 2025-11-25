@@ -53,11 +53,16 @@ const viswa = {
 <!-- Featured Projects Section -->
 ## 🎯 Featured Projects
 
+<!-- 
+📌 NOTE: Update the project links below with your actual repository URLs!
+Replace "https://github.com/viswa1213" with links to your specific project repos.
+-->
+
 <div align="center">
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |:----------:|:--------------|:--------------|:--------:|
-| **📱 Portfolio Website** | A modern, responsive personal portfolio showcasing my work, skills, and achievements with smooth animations and dark mode support. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/viswa1213) [![Live](https://img.shields.io/badge/-Live-00C7B7?style=flat&logo=netlify&logoColor=white)](https://github.com/viswa1213) |
+| **📱 Portfolio Website** | A modern, responsive personal portfolio showcasing my work, skills, and achievements with smooth animations and dark mode support. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/viswa1213) |
 | **🛒 E-Commerce Platform** | Full-stack e-commerce solution with user authentication, product management, shopping cart, payment integration, and admin dashboard. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/viswa1213) |
 | **📊 Data Analytics Dashboard** | Interactive dashboard for visualizing complex datasets with real-time updates, customizable charts, and export functionality. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/viswa1213) |
 | **💬 Real-time Chat App** | Instant messaging application with WebSocket support, user presence indicators, message history, and file sharing capabilities. | ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) | [![GitHub](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/viswa1213) |
