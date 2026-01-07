@@ -149,15 +149,6 @@ Replace "https://github.com/viswa1213" with links to your specific project repos
 
 ---
 
-<!-- Trophy Section -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viswa1213&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</div>
-
----
-
 <!-- Connect With Me Section -->
 ## 🤝 Let's Connect!
 
@@ -194,19 +185,6 @@ Replace "https://github.com/viswa1213" with links to your specific project repos
   <a href="https://www.buymeacoffee.com/viswa1213">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
-</div>
-
----
-
-<!-- Snake Animation - Contribution Grid -->
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
