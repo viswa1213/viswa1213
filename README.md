@@ -125,13 +125,6 @@ Replace "https://github.com/viswa1213" with links to your specific project repos
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viswa1213&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswa1213&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
 
 <br/>
 
