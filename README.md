@@ -1,6 +1,6 @@
 # Hi 👋, I'm Viswa
 
-### Backend Developer | Java & Spring Boot Enthusiast
+### Frontend Developer| UI/UX | Java & Spring Boot Enthusiast
 
 I'm a Computer Science student passionate about building scalable backend applications and continuously improving my problem-solving skills.
 
